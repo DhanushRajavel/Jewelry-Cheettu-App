@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 - **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - **Dart SDK**: Comes with Flutter installation.
 - **API Access**: Obtain access to the custom API for real-time data.
-### UI?UX Design
+### UI/UX Design
 
 - **UI Design Link**: [UI Design](https://www.figma.com/design/jQt6jiM0w5jhG6Pl3l6k9m/Jewelry-App-(DEV)?node-id=1-3353&t=QuN6gnubotmtI4y7-1)
 ### Installation
