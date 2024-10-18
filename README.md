@@ -1,6 +1,3 @@
-Here’s a simple README for your **SMS Jewelry Cheettu App**:
-
----
 
 # SMS Jewelry Cheettu App
 
